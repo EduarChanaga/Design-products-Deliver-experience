@@ -19,11 +19,33 @@ body{
     position: absolute;
     background-color: rgb(255, 255, 255);
     width: 42vw;
-    height: 40vh;
+    height: 45vh;
     margin-left: 7vw;
     margin-top: 18vw;
 }
 
+.barra{
+    position: absolute;
+    width: 0.3vw;
+    height: 30vh;
+    background-color: black;
+    margin-top: 20vw;
+    margin-left: 5vw;
+}
 .parrafo{
     font-size: 1.6vw;
+}
+
+.get_started{
+    font-size: 1vw;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    width: 5vw;
+    height: 10vw;
+    padding-left: 3.5vw;
+    padding-right: 3.5vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border-radius: 2vw;
 }
