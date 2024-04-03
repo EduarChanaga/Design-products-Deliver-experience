@@ -68,19 +68,19 @@ img{
     margin-top: 40vw;
     margin-left: 5vw;
     width: 85vw;
-    height: 15vw;
+    height: 13vw;
 }
 
 .cuadro_blanco{
     background-color: white;
     width: 25vw;
-    height: 15vw;
+    height: 13vw;
 }
 
 .cuadro_gris{
     background-color: #E2E7F1;
     width: 25vw;
-    height: 15vw;
+    height: 13vw;
 }
 
 
@@ -95,7 +95,7 @@ img{
 .text_cuadros{
     margin-top: 1vw;
     margin-left: 2vw;
-    font-size: 1.35vw;
+    font-size: 1vw;
     
 }
 
