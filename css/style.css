@@ -11,6 +11,19 @@ body{
 .title-2{
     font-size: 5vw;
     margin-left: 8vw;
-    margin-top: 10vw;
+    margin-top: 12vw;
     position: absolute;
+}
+
+.parrafo-button{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 42vw;
+    height: 40vh;
+    margin-left: 7vw;
+    margin-top: 18vw;
+}
+
+.parrafo{
+    font-size: 1.6vw;
 }
