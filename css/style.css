@@ -85,7 +85,19 @@ img{
 
 
 
+.title_cuadros{
+    margin-top: 2vw;
+    margin-left: 2vw;
+    font-size: 1vw;
+    font-weight: bold;
+}
 
+.text_cuadros{
+    margin-top: 1vw;
+    margin-left: 2vw;
+    font-size: 1.35vw;
+    
+}
 
 
 
