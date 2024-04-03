@@ -58,3 +58,58 @@ img{
     margin-left: 52vw;
     width: 35vw;
 }
+
+.cuadros{
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40vw;
+    margin-left: 5vw;
+    width: 85vw;
+    height: 15vw;
+}
+
+.cuadro_blanco{
+    background-color: white;
+    width: 25vw;
+    height: 15vw;
+}
+
+.cuadro_gris{
+    background-color: #E2E7F1;
+    width: 25vw;
+    height: 15vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cuadros2{
+    position: absolute;
+    background-color:#F8F8F8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60vw;
+    margin-left: 5vw;
+    width: 85vw;
+    height: 10vw;
+
+}
