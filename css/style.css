@@ -3,6 +3,20 @@ body{
     background-color: #F8F8F8;
 }
 
+.corazon{
+    margin-left: 80vw;
+    margin-top: 5vw;
+    position: absolute;
+    font-size: 1.5vw;
+    background-color: #ACACDA;
+    width: 4vw;
+    height: 4vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3vw;
+    border: 0.1vw solid black;
+}
 .title-1{
     font-size: 5vw;
     margin-left: 4vw;
