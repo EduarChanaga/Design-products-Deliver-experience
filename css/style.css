@@ -1,0 +1,16 @@
+body{
+    font-family:sans-serif;
+}
+
+.title-1{
+    font-size: 5vw;
+    margin-left: 4vw;
+    position: absolute;
+}
+
+.title-2{
+    font-size: 5vw;
+    margin-left: 8vw;
+    margin-top: 10vw;
+    position: absolute;
+}
