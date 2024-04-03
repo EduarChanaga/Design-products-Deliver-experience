@@ -33,19 +33,25 @@ body{
     margin-left: 5vw;
 }
 .parrafo{
+    position: absolute;
     font-size: 1.6vw;
 }
 
 .get_started{
-    font-size: 1vw;
+    position: absolute;
+    font-size: 1.5vw;
     text-decoration: none;
     background-color: black;
     color: white;
-    width: 5vw;
-    height: 10vw;
-    padding-left: 3.5vw;
-    padding-right: 3.5vw;
-    padding-top: 1vw;
-    padding-bottom: 1vw;
+    width: 12vw;
+    height: 3vw;
     border-radius: 2vw;
+    margin-top: 12vw; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    position:absolute;
 }
